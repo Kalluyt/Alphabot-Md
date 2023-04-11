@@ -43,12 +43,12 @@ global.premium = ['12036646449'] //premium user
 global.owner = ["12036646449"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "12036646449" // nomor wa kalian
 global.ownernomerr = "+12036646449" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.thumbnail = "./image/8405352.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome = "https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© Alphabot-Md' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© TATE BOT' //sticker wm ubah
+global.author = 'TANMAY TATE' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
@@ -123,16 +123,16 @@ global.prefa = ['', '!', '.', '🐦', '🐤', '🗿']
 global.sp = '⭔'
 global.mess = {
    sukses: '🤗Done, Oke Desu~',
-   admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
-   botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
-   owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
-   group: 'Perintah Ini Hanya Bisa Digunakan Di Group !',
-   private: 'Perintah Ini Hanya Bisa Digunakan Di Private !',
+   admin: 'Only admins can run this comment not you !',
+   botAdmin: 'Give me admin!',
+   owner: 'This command for owner !',
+   group: 'Only for group!',
+   private: 'Only for dm!',
    bot: 'Fitur Khusus Pengguna Nomor Bot',
-   errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
+   errtoimg: 'Maaf error agaya !',
    wait: '⏳ *Loding*',
    lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-   example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+   example1: 'Welcome @user Di Group @subject Rules padle laude @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
